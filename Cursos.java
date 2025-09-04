@@ -41,4 +41,7 @@ public class Cursos {
     public void setExamenes(String examenes) {
         this.examenes = examenes;
     }
+      public void Crearcurso(){
+      }
 }
+
